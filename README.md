@@ -12,8 +12,7 @@ All about me
 
 Meet me, I am a Newly Qualified Chartered accountant based in Surat. 
 
-<img align="right" alt="GIF" src="https://github.com/jasminkalsariya/About_me/blob/477368738d99c8bf41c1281c1305ac3f3b3b6b4e/Data%20Analysis%20(1).jpg" width="400" height="225" />
-  
+
 
 **Talking about Personal Stuffs:**
 
